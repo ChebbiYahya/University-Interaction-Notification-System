@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076000056272",
+    "project_id": "adscape-4d666",
+    "storage_bucket": "adscape-4d666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076000056272:android:536df915b2005b94bb0fd5",
+        "android_client_info": {
+          "package_name": "com.example.adscape_enseignant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYooIlzgZMItZDSuDl4Y8lIpmvSb7vug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
